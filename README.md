@@ -906,15 +906,3 @@ package.json 文件内部就是一个 JSON 对象，该对象的每一个成员�
 ```
 
 ### 三、其他
-
-####github 地址：
-
-https://github.com/bayi-lzp/koa-template （star！ star！star！）
-
-####技术栈：
-
-koa2、mongoose
-
-####近期会更新：
-
-redis、docker
