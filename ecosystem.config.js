@@ -1,3 +1,4 @@
+// pm2 配置文件
 module.exports = {
   apps : [{
     name: 'API',
